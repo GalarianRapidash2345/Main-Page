@@ -6,3 +6,14 @@ This ePortfolio serves as a suitable demonstration and introduction to my abilit
 
 
 # Links
+
+
+[code review](https://galarianrapidash2345.github.io/Code-Review/)
+
+[first enhancement](https://galarianrapidash2345.github.io/Enhancement-One/)
+
+[second enhancement](https://galarianrapidash2345.github.io/Enhancement-Two/)
+
+[third enhancement](https://galarianrapidash2345.github.io/Enhancement-Three/)
+
+[self-assessment](https://galarianrapidash2345.github.io/)
